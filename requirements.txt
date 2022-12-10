@@ -1,4 +1,3 @@
-pyrogram==2.0.43
 psutil
 loggers
 filetype
